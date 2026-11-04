@@ -1,12 +1,12 @@
 slug,title,jurisdiction,contest,total_votes,units_reporting,total_units,percent_reporting,as_of_utc
-i-645,Initiative Measure No. IP26-645,washington,Initiative Measure No. IP26-645,160955,9,39,23.1,2026-11-04T04:09:45.7497791Z
-i-001,Initiative Measure No. IL26-001,washington,Initiative Measure No. IL26-001,157110,9,39,23.1,2026-11-04T04:09:45.7497791Z
-i-638,Initiative Measure No. IL26-638,washington,Initiative Measure No. IL26-638,160636,9,39,23.1,2026-11-04T04:09:45.7497791Z
-king-assessor,King County Assessor,king-county-wa,Assessor,0,0,0,,2026-11-04T03:55:18.440865Z
-king-council-d2,King County Council District 2,king-county-wa,Metropolitan King County - Council District No. 2,0,0,0,,2026-11-04T03:55:18.440865Z
-king-council-d8,King County Council District 8,king-county-wa,Metropolitan King County - Council District No. 8,0,0,0,,2026-11-04T03:55:18.440865Z
-seattle-council-d5,Seattle City Council District 5,king-county-wa,City of Seattle - Council District No. 5,0,0,0,,2026-11-04T03:55:18.440865Z
-seattle-transit-prop-1,Seattle Proposition 1 (Transit),king-county-wa,City of Seattle - Proposition No. 1,0,0,0,,2026-11-04T03:55:18.440865Z
+i-645,Initiative Measure No. IP26-645,washington,Initiative Measure No. IP26-645,935309,15,39,38.5,2026-11-04T04:14:40.4097775Z
+i-001,Initiative Measure No. IL26-001,washington,Initiative Measure No. IL26-001,911161,15,39,38.5,2026-11-04T04:14:40.4097775Z
+i-638,Initiative Measure No. IL26-638,washington,Initiative Measure No. IL26-638,929972,15,39,38.5,2026-11-04T04:14:40.4097775Z
+king-assessor,King County Assessor,king-county-wa,Assessor,466113,0,0,,2026-11-04T04:12:12.4190615Z
+king-council-d2,King County Council District 2,king-county-wa,Metropolitan King County - Council District No. 2,53701,0,0,,2026-11-04T04:12:12.4190615Z
+king-council-d8,King County Council District 8,king-county-wa,Metropolitan King County - Council District No. 8,56540,0,0,,2026-11-04T04:12:12.4190615Z
+seattle-council-d5,Seattle City Council District 5,king-county-wa,City of Seattle - Council District No. 5,25857,0,0,,2026-11-04T04:12:12.4190615Z
+seattle-transit-prop-1,Seattle Proposition 1 (Transit),king-county-wa,City of Seattle - Proposition No. 1,185048,0,0,,2026-11-04T04:12:12.4190615Z
 pierce-transit-prop-1,Pierce Transit Proposition 1,pierce-county-wa,Pierce Transit - Proposition No. 1,0,0,0,,2026-11-04T03:55:18.5256473Z
 pierce-council-d1,Pierce County Council District 1,pierce-county-wa,County Council District No. 1,0,0,0,,2026-11-04T03:55:18.5256473Z
 pierce-council-d5,Pierce County Council District 5,pierce-county-wa,County Council District No. 5,0,0,0,,2026-11-04T03:55:18.5256473Z
