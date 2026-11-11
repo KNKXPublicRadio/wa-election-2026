@@ -1,14 +1,14 @@
 slug,title,jurisdiction,contest,total_votes,units_reporting,total_units,percent_reporting,as_of_utc
-i-645,Initiative Measure No. IP26-645,washington,Initiative Measure No. IP26-645,3062682,38,39,97.4,2026-11-10T16:54:18.0964205Z
-i-001,Initiative Measure No. IL26-001,washington,Initiative Measure No. IL26-001,2984504,38,39,97.4,2026-11-10T16:54:18.0964205Z
-i-638,Initiative Measure No. IL26-638,washington,Initiative Measure No. IL26-638,3048694,38,39,97.4,2026-11-10T16:54:18.0964205Z
-king-assessor,King County Assessor,king-county-wa,Assessor,791073,3685,3685,100.0,2026-11-09T23:45:00.2151379Z
-king-council-d2,King County Council District 2,king-county-wa,Metropolitan King County - Council District No. 2,97955,334,334,100.0,2026-11-09T23:45:00.2151379Z
-king-council-d8,King County Council District 8,king-county-wa,Metropolitan King County - Council District No. 8,99001,429,429,100.0,2026-11-09T23:45:00.2151379Z
-seattle-council-d5,Seattle City Council District 5,king-county-wa,City of Seattle - Council District No. 5,46970,139,139,100.0,2026-11-09T23:45:00.2151379Z
-seattle-transit-prop-1,Seattle Proposition 1 (Transit),king-county-wa,City of Seattle - Proposition No. 1,336905,1032,1032,100.0,2026-11-09T23:45:00.2151379Z
-pierce-transit-prop-1,Pierce Transit Proposition 1,pierce-county-wa,Pierce Transit - Proposition No. 1,180915,423,423,100.0,2026-11-09T22:52:45.6348292Z
-pierce-council-d1,Pierce County Council District 1,pierce-county-wa,County Council District No. 1,55076,146,146,100.0,2026-11-09T22:52:45.6348292Z
-pierce-council-d5,Pierce County Council District 5,pierce-county-wa,County Council District No. 5,38191,93,93,100.0,2026-11-09T22:52:45.6348292Z
-pierce-council-d7,Pierce County Council District 7,pierce-county-wa,County Council District No. 7,68608,104,104,100.0,2026-11-09T22:52:45.6348292Z
-tacoma-tenant-initiative,Tacoma Safe Homes for All Initiative (Tenant Initiative),pierce-county-wa,City of Tacoma - Safe Homes for All Initiative Measure No. 1,75338,151,151,100.0,2026-11-09T22:52:45.6348292Z
+i-645,Initiative Measure No. IP26-645,washington,Initiative Measure No. IP26-645,3093693,39,39,100.0,2026-11-11T00:31:58.9454269Z
+i-001,Initiative Measure No. IL26-001,washington,Initiative Measure No. IL26-001,3013008,39,39,100.0,2026-11-11T00:31:58.9454269Z
+i-638,Initiative Measure No. IL26-638,washington,Initiative Measure No. IL26-638,3077208,39,39,100.0,2026-11-11T00:31:58.9454269Z
+king-assessor,King County Assessor,king-county-wa,Assessor,794066,3685,3685,100.0,2026-11-10T23:39:12.8597903Z
+king-council-d2,King County Council District 2,king-county-wa,Metropolitan King County - Council District No. 2,98389,334,334,100.0,2026-11-10T23:39:12.8597903Z
+king-council-d8,King County Council District 8,king-county-wa,Metropolitan King County - Council District No. 8,99348,429,429,100.0,2026-11-10T23:39:12.8597903Z
+seattle-council-d5,Seattle City Council District 5,king-county-wa,City of Seattle - Council District No. 5,47111,139,139,100.0,2026-11-10T23:39:12.8597903Z
+seattle-transit-prop-1,Seattle Proposition 1 (Transit),king-county-wa,City of Seattle - Proposition No. 1,338230,1032,1032,100.0,2026-11-10T23:39:12.8597903Z
+pierce-transit-prop-1,Pierce Transit Proposition 1,pierce-county-wa,Pierce Transit - Proposition No. 1,182884,423,423,100.0,2026-11-10T23:43:03.623033Z
+pierce-council-d1,Pierce County Council District 1,pierce-county-wa,County Council District No. 1,55588,146,146,100.0,2026-11-10T23:43:03.623033Z
+pierce-council-d5,Pierce County Council District 5,pierce-county-wa,County Council District No. 5,38603,93,93,100.0,2026-11-10T23:43:03.623033Z
+pierce-council-d7,Pierce County Council District 7,pierce-county-wa,County Council District No. 7,69214,104,104,100.0,2026-11-10T23:43:03.623033Z
+tacoma-tenant-initiative,Tacoma Safe Homes for All Initiative (Tenant Initiative),pierce-county-wa,City of Tacoma - Safe Homes for All Initiative Measure No. 1,76179,151,151,100.0,2026-11-10T23:43:03.623033Z
